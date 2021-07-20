@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Odoo Tutorials',
-    'version': '14.0.1.0.0',
+    'name': 'Odoo Mates Tutorials',
+    'version': '14.0.1.1.0',
     'summary': 'Odoo Tutorials',
     'sequence': -100,
-    'description': """Odoo Tutorials""",
+    'description': """Odoo Tutorials By Odoo Mates""",
     'category': 'Tutorials',
-    'author': 'Odoo Mates',
+    'author': 'Odoo Bot, Odoo Mates',
     'maintainer': 'Odoo Mates',
     'website': 'https://www.odoomates.tech',
     'license': 'LGPL-3',
