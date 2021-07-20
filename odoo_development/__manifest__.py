@@ -8,7 +8,7 @@
     'category': 'Tutorials',
     'author': 'Odoo Bot',
     'maintainer': 'Odoo Bot',
-    'price': '10.0',
+    'price': '25.0',
     'currency': 'USD',
     'website': 'https://www.odoomates.tech',
     'license': 'LGPL-3',
